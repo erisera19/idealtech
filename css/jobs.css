@@ -1,0 +1,56 @@
+.carousel-area .jobs {
+    text-align: center;
+    background-color: #A41034;
+    height: 100%;
+}
+.jobs{
+    background-color: white !important;
+}
+.carousel-area .jobs p {
+ text-align: center;
+}
+.jobs{
+    height: fit-content;
+}
+.carousel-area .jobs h1 {
+    margin-top: 5rem !important;
+    text-align: center;
+
+}
+.jobs-item{
+    height: fit-content !important;
+    display: flex;
+    border: 1px solid #A41034 !important;
+    justify-content: space-between;
+    padding: 1rem !important;
+    align-items: center;
+    
+}
+.jobs-item h4{
+  margin-bottom: 0rem !important;
+  color: black !important;
+  padding: .5rem !important;
+  text-align: left;
+  width: 80%;
+}
+
+.jobs-item a{
+ font-weight: 400;
+ background-color: #A41034;
+ color: white;
+ padding:.5rem;
+ border-radius: 10px;
+ text-align: center;
+}
+.jobs-item a:hover{
+color: white;
+   }
+   .jobs-item a:active{
+    color: white;
+       }
+.jobs-item:hover{
+    box-shadow: none !important;
+}
+.bg-jobs{
+    background:#A41034 !important;
+}
