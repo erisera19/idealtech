@@ -102,6 +102,7 @@
     .widget {
         margin-top: 30px;
     }
+
 }
 
 @media (max-width: 640px) {
@@ -264,6 +265,13 @@
         align-items: center;
         width: 100%;
     }
+    .topServices{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
     .services-section--subtitle{
         font-size: 15px !important;
     }
@@ -278,6 +286,13 @@
         width: 100%;
         padding-left: 30px;
         padding-right: 30px;
+    }
+    .topServices{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
     }
     .aboutus-section-main img{
         display: none !important;
